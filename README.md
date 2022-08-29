@@ -1,7 +1,6 @@
 ### Olá, mundo! 👩🏻‍💻🌎
 
 - 📚 desenvolvedor em formação.
-- ℹ atualmente trabalhando como Dev Jr.
 - 😄 vamos mudar o mundo codando hehe ;))
 
 <div align="center">
